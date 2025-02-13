@@ -2,6 +2,13 @@
 
 In Linux, process management is crucial for controlling system performance and ensuring applications run smoothly. Here’s a detailed guide on managing processes effectively.
 
+## Types of Processes:
+1. **Foreground Process** - Runs in the terminal and requires user interaction.
+2. **Background Process** - Runs in the background without user interaction.
+3. **Daemon Process** - System process running in the background, typically started at boot.
+4. **Zombie Process** - Completed process that remains in the process table.
+5. **Orphan Process** - A child process whose parent has exited.
+
 ## Viewing Processes
 To check running processes, use the following commands:
 
