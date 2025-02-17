@@ -1,4 +1,5 @@
-bash'''
+'''bash
+
 #!/bin/bash
 
 #function to add user
@@ -51,3 +52,4 @@ while true; do
                 *) echo "Invalid choice..!" ;;
         esac
 done        
+'''
