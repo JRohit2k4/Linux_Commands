@@ -6,6 +6,7 @@ echo -n "enter user name: "
 read username
 sudo useradd $username
 echo "Enter password: "
+sudo passwd $username
 echo "user $username added"
 }
 
