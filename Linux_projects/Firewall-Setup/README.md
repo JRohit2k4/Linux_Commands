@@ -19,5 +19,5 @@ This project focuses on setting up and configuring a firewall on a Linux system 
 This project provides a foundational understanding of Linux firewall configuration. Further enhancements can include advanced rules, intrusion detection integration, and automated rule management scripts.
 
 ## Author
-[ROHIT JADHAV]
+ROHIT JADHAV
 
