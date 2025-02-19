@@ -14,7 +14,6 @@ This project focuses on setting up and configuring a firewall on a Linux system 
 - A Linux-based operating system (Ubuntu, CentOS, or Debian recommended)
 - Root or sudo privileges
 - Basic knowledge of networking concepts
-  ```
 
 ## Conclusion
 This project provides a foundational understanding of Linux firewall configuration. Further enhancements can include advanced rules, intrusion detection integration, and automated rule management scripts.
