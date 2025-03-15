@@ -19,7 +19,7 @@ A simple Bash script to store, retrieve, and manage birthdays. This script allow
 └── README.md          # Documentation
 ```
 
-```
+
 ### Follow the On-Screen Menu
 ```
 🎂 Birthday Reminder 🎂  
@@ -33,7 +33,7 @@ Choose an option:
 ## 📑 File Format
 **birthdays.txt** should store birthdays in this format:
 ```
-John,2000-07-10
+John,2000-07-10  
 Alice,1998-09-25
 ```
 
