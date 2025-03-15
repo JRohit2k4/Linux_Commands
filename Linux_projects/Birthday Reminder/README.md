@@ -22,13 +22,11 @@ A simple Bash script to store, retrieve, and manage birthdays. This script allow
 ```
 ### Follow the On-Screen Menu
 ```
-==============================
-🎂 Birthday Reminder 🎂
-1️⃣ Check Today's Birthdays
-2️⃣ Show Upcoming Birthdays
-3️⃣ Add a New Birthday
-4️⃣ Exit
-==============================
+🎂 Birthday Reminder 🎂  
+1️⃣ Check Today's Birthdays  
+2️⃣ Show Upcoming Birthdays  
+3️⃣ Add a New Birthday  
+4️⃣ Exit  
 Choose an option:
 ```
 
